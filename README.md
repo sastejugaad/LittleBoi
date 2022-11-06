@@ -7,3 +7,6 @@ https://www.instagram.com/reel/CjQiWjgPsBQ/
 
 # Tutorial
 https://www.youtube.com/watch?v=DRXjLnhupkE
+
+# Article guide
+https://www.instructables.com/Tiny-Desktop-Robot-With-ESP32-and-FreeRTOS/
