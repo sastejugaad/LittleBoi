@@ -1,9 +1,9 @@
 /* ESP32 robot with freeRTOS and facial expressions. It is controlled wirelessly through a wifi app.  
- * Robot can show emotions like vectors and cosmo. It has an MPU6050 and an Oled screen.  
+ * Robots can show emotions like vectors and cosmos. It has an MPU6050 and an Oled screen.  
  * The real-time operating system will allow me to push ESP32 at its limit. 
  * This is the first version of this project. I have only added basic expressions more are coming in the future. 
  * I will also add SLAM and Swarming features in the future.
- * Download the wiif app from github. Get the Ip address from serial monitor. UDP port is 1234 unless you have changedthe code.
+ * Download the wifi app from Git Hub. Get the Ip address from the serial monitor. UDP port is 1234 unless you have changed the code.
  */
 
 
