@@ -1,4 +1,8 @@
 #DUMB LITTLE ROBOT
+NOTE:- 
+USE OLD ARDUINO IDE 1.8.19
+IF YOU ARE GETTING analogwrite error THEN ONLY INSTALL THE ESP32_ANALOGWRITE LIBRARY.
+
 # Robot I am trying to build
 https://www.instagram.com/reel/CiXJ53lJ-d4/
 
