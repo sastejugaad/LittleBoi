@@ -1,7 +1,7 @@
 #ifndef MOTORCONTROLLER_H
 #define MOTORCONTROLLER_H
 #include <Arduino.h>
-#include <analogWrite.h>
+//#include <analogWrite.h>//Will give analogwrite.h error. 
 
 void forward(int PWM1,int AIN1,int AIN2,int PWM2,int BIN1,int BIN2,int Speed);
 void backward(int PWM1,int AIN1,int AIN2,int PWM2,int BIN1,int BIN2,int Speed);
