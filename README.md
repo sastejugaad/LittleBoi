@@ -15,3 +15,6 @@ https://www.youtube.com/watch?v=DRXjLnhupkE
 
 # Article guide
 https://www.instructables.com/Tiny-Desktop-Robot-With-ESP32-and-FreeRTOS/
+
+# New Features (fork additions)
+See [CHANGES.md](CHANGES.md) for added features like the mobile web controller and PlatformIO support.

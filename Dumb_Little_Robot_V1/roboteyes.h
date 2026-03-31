@@ -16,6 +16,7 @@ void blink_eyes(int t,int numberOfblinks);
 void look_left(int t);
 void look_right(int t);
 void look_squint(int t);
+void sad_blink(int t, int numberOfblinks);
 
 #endif
 
